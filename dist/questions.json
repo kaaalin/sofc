@@ -1,0 +1,302 @@
+[
+  {
+    "id": "Q01",
+    "language": "BG",
+    "question": "Къде е моят изход и колко време се върви дотам?",
+    "intent": "gate"
+  },
+  {
+    "id": "Q02",
+    "language": "EN",
+    "question": "How long does it take to walk from security to gate B12?",
+    "intent": "walk"
+  },
+  {
+    "id": "Q03",
+    "language": "EN",
+    "question": "Is my flight delayed?",
+    "intent": "flight"
+  },
+  {
+    "id": "Q04",
+    "language": "BG",
+    "question": "В колко часа започва качването?",
+    "intent": "boarding"
+  },
+  {
+    "id": "Q05",
+    "language": "EN",
+    "question": "What is open after security at this hour?",
+    "intent": "open"
+  },
+  {
+    "id": "Q06",
+    "language": "BG",
+    "question": "Работи ли кафенето след проверката в момента?",
+    "intent": "coffee"
+  },
+  {
+    "id": "Q07",
+    "language": "EN",
+    "question": "Where can I eat after security?",
+    "intent": "food"
+  },
+  {
+    "id": "Q08",
+    "language": "EN",
+    "question": "Is there a pharmacy airside?",
+    "intent": "pharmacy"
+  },
+  {
+    "id": "Q09",
+    "language": "BG",
+    "question": "Има ли аптека след проверката за сигурност?",
+    "intent": "pharmacy"
+  },
+  {
+    "id": "Q10",
+    "language": "EN",
+    "question": "Where are the toilets nearest to gate A6?",
+    "intent": "toilets"
+  },
+  {
+    "id": "Q11",
+    "language": "EN",
+    "question": "Where can I charge my phone?",
+    "intent": "charging"
+  },
+  {
+    "id": "Q12",
+    "language": "BG",
+    "question": "Къде мога да заредя телефона си?",
+    "intent": "charging"
+  },
+  {
+    "id": "Q13",
+    "language": "EN",
+    "question": "Is there a smoking area after security?",
+    "intent": "smoking"
+  },
+  {
+    "id": "Q14",
+    "language": "BG",
+    "question": "Къде е зоната за пушене в зоната за заминаване?",
+    "intent": "smoking"
+  },
+  {
+    "id": "Q15",
+    "language": "EN",
+    "question": "How much liquid can I take through security?",
+    "intent": "liquids"
+  },
+  {
+    "id": "Q16",
+    "language": "BG",
+    "question": "Мога ли да нося течности в ръчния багаж?",
+    "intent": "liquids"
+  },
+  {
+    "id": "Q17",
+    "language": "EN",
+    "question": "I bought perfume in duty free — will it be taken at my connection?",
+    "intent": "dutyfree"
+  },
+  {
+    "id": "Q18",
+    "language": "EN",
+    "question": "How do I claim my VAT refund?",
+    "intent": "vat"
+  },
+  {
+    "id": "Q19",
+    "language": "BG",
+    "question": "Къде се възстановява ДДС за покупки?",
+    "intent": "vat"
+  },
+  {
+    "id": "Q20",
+    "language": "EN",
+    "question": "Where is the lounge and can I pay to enter?",
+    "intent": "lounge"
+  },
+  {
+    "id": "Q21",
+    "language": "BG",
+    "question": "Има ли лаундж и колко струва входът?",
+    "intent": "lounge"
+  },
+  {
+    "id": "Q22",
+    "language": "EN",
+    "question": "Where is the prayer room?",
+    "intent": "prayer"
+  },
+  {
+    "id": "Q23",
+    "language": "EN",
+    "question": "Is there a place to feed and change a baby?",
+    "intent": "baby"
+  },
+  {
+    "id": "Q24",
+    "language": "BG",
+    "question": "Има ли стая за майки с деца?",
+    "intent": "baby"
+  },
+  {
+    "id": "Q25",
+    "language": "EN",
+    "question": "I need wheelchair assistance — where do I go?",
+    "intent": "assistance"
+  },
+  {
+    "id": "Q26",
+    "language": "BG",
+    "question": "Как да заявя инвалидна количка за полета си?",
+    "intent": "assistance"
+  },
+  {
+    "id": "Q27",
+    "language": "EN",
+    "question": "I left something on the plane — what do I do?",
+    "intent": "planeitem"
+  },
+  {
+    "id": "Q28",
+    "language": "BG",
+    "question": "Забравих нещо в самолета, към кого да се обърна?",
+    "intent": "planeitem"
+  },
+  {
+    "id": "Q29",
+    "language": "EN",
+    "question": "Where is lost and found?",
+    "intent": "lost"
+  },
+  {
+    "id": "Q30",
+    "language": "EN",
+    "question": "My bag did not arrive — who do I speak to?",
+    "intent": "baggage"
+  },
+  {
+    "id": "Q31",
+    "language": "BG",
+    "question": "Багажът ми не пристигна, какво да правя?",
+    "intent": "baggage"
+  },
+  {
+    "id": "Q32",
+    "language": "EN",
+    "question": "Can I bring a power bank in hand luggage?",
+    "intent": "battery"
+  },
+  {
+    "id": "Q33",
+    "language": "BG",
+    "question": "Може ли да нося външна батерия в ръчния багаж?",
+    "intent": "battery"
+  },
+  {
+    "id": "Q34",
+    "language": "EN",
+    "question": "How early should I be at the gate?",
+    "intent": "early"
+  },
+  {
+    "id": "Q35",
+    "language": "BG",
+    "question": "Колко време преди полета трябва да съм на изхода?",
+    "intent": "early"
+  },
+  {
+    "id": "Q36",
+    "language": "EN",
+    "question": "Is there wifi and how do I connect?",
+    "intent": "wifi"
+  },
+  {
+    "id": "Q37",
+    "language": "BG",
+    "question": "Как да се свържа с безплатния интернет?",
+    "intent": "wifi"
+  },
+  {
+    "id": "Q38",
+    "language": "EN",
+    "question": "Where can I buy water after security?",
+    "intent": "water"
+  },
+  {
+    "id": "Q39",
+    "language": "EN",
+    "question": "Is there an ATM airside?",
+    "intent": "atm"
+  },
+  {
+    "id": "Q40",
+    "language": "BG",
+    "question": "Има ли банкомат след проверката?",
+    "intent": "atm"
+  },
+  {
+    "id": "Q41",
+    "language": "EN",
+    "question": "My flight is delayed — do I get a voucher?",
+    "intent": "voucher"
+  },
+  {
+    "id": "Q42",
+    "language": "BG",
+    "question": "Полетът ми е отменен, какви са правата ми?",
+    "intent": "rights"
+  },
+  {
+    "id": "Q43",
+    "language": "EN",
+    "question": "Where do I go for passport control for a flight to London?",
+    "intent": "passport"
+  },
+  {
+    "id": "Q44",
+    "language": "BG",
+    "question": "Къде е паспортната проверка за полети извън Шенген?",
+    "intent": "passport"
+  },
+  {
+    "id": "Q45",
+    "language": "EN",
+    "question": "Can I leave the airside area and come back?",
+    "intent": "exit"
+  },
+  {
+    "id": "Q46",
+    "language": "EN",
+    "question": "Where is gate A12 — I cannot find it?",
+    "intent": "gate"
+  },
+  {
+    "id": "Q47",
+    "language": "BG",
+    "question": "Не намирам изход B7, къде се намира?",
+    "intent": "gate"
+  },
+  {
+    "id": "Q48",
+    "language": "EN",
+    "question": "Is there a shower or rest area for a long layover?",
+    "intent": "rest"
+  },
+  {
+    "id": "Q49",
+    "language": "BG",
+    "question": "Може ли да оставя багаж на съхранение?",
+    "intent": "storage"
+  },
+  {
+    "id": "Q50",
+    "language": "EN",
+    "question": "Where do I find a taxi or the metro when I land?",
+    "intent": "transport"
+  }
+]
